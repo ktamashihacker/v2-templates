@@ -10,7 +10,7 @@ terraform {
 }
 
 locals {
-  image = "marktmilligan/kasm:latest"
+  image = "kasmweb/firefox:dev"
   user = "kasm-user"
 }
 
